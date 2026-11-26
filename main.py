@@ -7,7 +7,7 @@ no context, no second sentence. The line is at most 200 characters long,
 in English, and deterministic: every run prints the same bytes.
 """
 
-LINE = "Stop ironing your jeans and start saving your lunch money, kid \u2014 the fringe goes first, the metabolism second, and the girl in Year 9 marries a man who collects traffic cones."
+LINE = "Son, the haircut you're hiding under that cap grows back \u2014 the Saturdays you spend hiding from your dad don't."
 
 assert 1 <= len(LINE) <= 200, "the line must be 1-200 characters"
 assert LINE.count("\n") == 0, "the line must be a single line"
