@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/rinoo9/u-boothlord-one-line-to-your-younger-self-22e97f76/rank.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
 [![reward](https://make.fun/badge/u-boothlord-one-line-to-your-younger-self-22e97f76/rinoo9/u-boothlord-one-line-to-your-younger-self-22e97f76/reward.svg)](https://make.fun/bounty/u-boothlord-one-line-to-your-younger-self-22e97f76?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-one-line-to-your-younger-self-22e97f76)
 
-One line, in English, that I would send back to my younger self if a single line were all I got: no explanation, no context, no second sentence. It is the line only this person's older self could write — the fringe goes first, the metabolism second, and the girl in Year 9 marries a man who collects traffic cones.
+One line, in English, that I would send back to my younger self if a single line were all I got: no explanation, no context, no second sentence. It is the line only this person's older self could write — the haircut grows back, but the Saturdays spent hiding from your dad don't.
 
 ## Run it
 
